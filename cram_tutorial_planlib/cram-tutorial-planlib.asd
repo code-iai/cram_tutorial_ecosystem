@@ -13,7 +13,6 @@
                alexandria
 	       cram-plan-failures
                designators
-               physics-utils
                cram-language
 	       process-modules)
   :components

@@ -17,7 +17,6 @@
   <depend package="cram_plan_library"/>
   <depend package="cram_plan_knowledge"/>
   <depend package="cram_environment_representation"/>
-  <depend package="cram_physics_utils"/>
   <depend package="cram_utilities" />
   <depend package="cram_process_modules" />
   <depend package="cram_designators" />

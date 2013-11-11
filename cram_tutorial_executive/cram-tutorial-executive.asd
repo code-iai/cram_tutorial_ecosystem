@@ -12,7 +12,6 @@
                cram-environment-representation
                alexandria
                designators-ros
-               physics-utils
                cram-language
                tutorial-process-module
                cram-tutorial-planlib)
